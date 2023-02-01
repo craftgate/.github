@@ -11,7 +11,7 @@ Craftgate is a 'One-Stop Shop' payment gateway where you can easily integrate an
 
 Craftgate is a tech company that focuses on the fintech industry. We are working with high-qualified software engineers who have deep knowledge, mainly about: 
 
-- Scalibility, consistency and concurrency
+- Scalability, consistency and concurrency
 - Software design principles
 - Microservices and modular architecture
 - Infrastructure design and maintenance
