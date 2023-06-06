@@ -2,7 +2,7 @@
 
 ![Craftgate banner](https://github.com/craftgate/.github/blob/master/banner.png?raw=true)
 
-Craftgate is a 'One-Stop Shop' payment gateway where you can easily integrate and manage Virtual POS of all banks of your business as well as many other payment and e-money institutions, alternative and international payment methods from a single center. With Craftgate, you can quickly benefit from many value-added services. Thus, you can focus on growing your core business while reducing costs with Craftgate.
+Craftgate is a 'One-Stop Shop' payment orchestration platform where you can easily integrate and manage Virtual POS of all banks of your business as well as many other payment and e-money institutions, alternative and international payment methods from a single center. With Craftgate, you can quickly benefit from many value-added services. Thus, you can focus on growing your core business while reducing costs with Craftgate.
 
 - [craftgate.io](https://craftgate.io/en/)
 - [Developers](https://craftgate.io/en/developer/)
