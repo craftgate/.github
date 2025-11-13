@@ -1,6 +1,6 @@
 ## Hello, this is Craftgate 👋
 
-![Craftgate banner](https://github.com/craftgate/.github/blob/master/banner.png?raw=true)
+![Craftgate banner](https://github.com/craftgate/.github/blob/master/banner-2025.jpeg?raw=true)
 
 Craftgate is a **modern payment orchestration platform** that brings together all the payment methods a business needs under a single roof. Instead of integrating each bank Virtual POS, e-money institution, or alternative payment provider one by one, Craftgate offers a **central integration point**. In addition to this unified structure, Craftgate provides **20+ modular products** that help businesses enhance their payment operations, optimize conversion rates, and streamline financial workflows end-to-end.
 
